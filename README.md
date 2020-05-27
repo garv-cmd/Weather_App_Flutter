@@ -1,8 +1,11 @@
 # myweatherapp
+# note
+enable location services of your device to use this app
+
 a weather app made using flutter for all screen sizes and able to get weather of current location and also can enter location to get weather moreoften it changes the look of app according to weather conditions!!
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-A new Flutter application.
+<!--[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+A new Flutter application.-->
 
 ## Getting Started
 
