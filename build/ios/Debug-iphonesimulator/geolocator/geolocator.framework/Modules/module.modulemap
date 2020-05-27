@@ -1,0 +1,11 @@
+framework module geolocator {
+  umbrella header "geolocator-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module geolocator.Swift {
+    header "geolocator-Swift.h"
+    requires objc
+}
